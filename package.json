@@ -1,0 +1,24 @@
+{
+  "name": "first_package",
+  "version": "1.0.0",
+  "description": "first try to do own package for projects",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/testmachine19/Projects.git)"
+  },
+  "keywords": [
+    "test",
+    "functions",
+    "nodejs"
+  ],
+  "author": "S Vorobyov",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
